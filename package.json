@@ -5,7 +5,7 @@
   "type": "module",
   "main": "src/main/index.js",
   "scripts": {
-    "start": "nodemon src/main/index.js",
+    "dev": "nodemon src/main/index.js",
     "test": "jest --watch",
     "test:unit": "npm test -- --watchAll --runInBand --detectOpenHandles -c jest-unit-config.js",
     "test:integration": "npm test -- --watch --detectOpenHandles -c jest-integration-config.js",
