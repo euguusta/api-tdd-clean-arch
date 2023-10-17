@@ -1,6 +1,6 @@
 # Clean Architecture NodejS API
 
-Esta API em Node.js para gerenciamento de escritório de advocacia, proporcionando recursos essenciais para a gestão eficiente de advogados, clientes, processos/casos e documentos. Além disso, oferece uma área de agenda que permite a organização de tarefas diárias.
+API em Node.js para gerenciamento de escritório de advocacia, proporcionando recursos essenciais para a gestão eficiente de advogados, clientes, processos/casos e documentos. Além disso, oferece uma área de agenda que permite a organização de tarefas diárias.
 
 Recursos disponíveis na API:
 
